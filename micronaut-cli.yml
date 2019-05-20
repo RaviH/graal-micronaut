@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: graal.micronaut
+---
+testFramework: junit
+sourceLanguage: java
